@@ -6,7 +6,8 @@ function App() {
   return (
     <div>
        <Accordian/>
-       <RandomColor/>    
+       <RandomColor/>  
+       <StarRating/>
     </div>
   );
 }
